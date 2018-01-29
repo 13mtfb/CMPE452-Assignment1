@@ -11,7 +11,7 @@ void printIris(iris print) {
 	else if (print.type[2] == true) {
 		std::cout << "Iris-virginica: ";
 	}
-	std::cout << print.data[0] << ", " << print.data[1] << ", " << print.data[2] << ", " << print.data[3] << std::endl;
+	std::cout << print.data[1] << ", " << print.data[2] << ", " << print.data[3] << ", " << print.data[4] << std::endl;
 }
 
 

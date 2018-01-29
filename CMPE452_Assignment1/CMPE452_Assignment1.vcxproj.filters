@@ -43,5 +43,20 @@
     <Text Include="Train.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="TrainSetosa.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TrainSetosaVersicolour.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TestSetosaVersicolour.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TrainVersicolourVirginicia.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

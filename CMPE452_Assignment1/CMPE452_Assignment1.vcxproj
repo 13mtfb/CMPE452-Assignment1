@@ -160,8 +160,13 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="output.txt" />
     <Text Include="Test.txt" />
+    <Text Include="TestSetosaVersicolour.txt" />
     <Text Include="Train.txt" />
+    <Text Include="TrainSetosa.txt" />
+    <Text Include="TrainSetosaVersicolour.txt" />
+    <Text Include="TrainVersicolourVirginicia.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
