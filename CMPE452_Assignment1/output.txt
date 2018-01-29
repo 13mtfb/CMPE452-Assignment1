@@ -35,7 +35,7 @@ Final Weight Values:
 [29] classifying a virginia ->> Predicted a virginia
 [30] classifying a virginia ->> Predicted a virginia
 
-Total classification error 10
+Total classification error: 10
 Explanation: each missed classification is 1 output value away (no observed instances of a garbage prediction).
 Therefore can just add up the number of missed classifications
 [Setosa] Precision: 0.625 Recall: 1

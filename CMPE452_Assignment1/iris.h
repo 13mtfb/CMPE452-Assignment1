@@ -2,10 +2,6 @@
 
 //contains structs and functions for iris data
 
-//Categorical data should be represented as a binary vector (05_perceptron.pdf #25)
-//enum IRISTYPE { setosa, versicolor, viginicia };
-
-
 //float data array[5] has following indices
 //data[0]: bias input
 //data[1]: petalWidth
