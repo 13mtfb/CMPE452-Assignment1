@@ -160,6 +160,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="output.txt" />
     <Text Include="Test.txt" />
     <Text Include="TestSetosaVersicolour.txt" />
     <Text Include="Train.txt" />

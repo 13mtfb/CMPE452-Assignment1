@@ -1,0 +1,48 @@
+Initial Weight values: 
+<-0.5, 0.5, 0.5, 0.5, 0.5, >
+<-0.5, 0.5, 0.5, 0.5, 0.5, >
+Final Weight Values: 
+<-0.63, -0.443, -0.222, 0.674, 0.808, >
+<-0.62, 0.25, -0.258, -0.211, -0.166, >
+[1] classifying a setosa ->> Predicted a setosa
+[2] classifying a setosa ->> Predicted a setosa
+[3] classifying a setosa ->> Predicted a setosa
+[4] classifying a setosa ->> Predicted a setosa
+[5] classifying a setosa ->> Predicted a setosa
+[6] classifying a setosa ->> Predicted a setosa
+[7] classifying a setosa ->> Predicted a setosa
+[8] classifying a setosa ->> Predicted a setosa
+[9] classifying a setosa ->> Predicted a setosa
+[10] classifying a setosa ->> Predicted a setosa
+[11] classifying a versicolour ->> Predicted a setosa
+[12] classifying a versicolour ->> Predicted a virginia
+[13] classifying a versicolour ->> Predicted a setosa
+[14] classifying a versicolour ->> Predicted a virginia
+[15] classifying a versicolour ->> Predicted a setosa
+[16] classifying a versicolour ->> Predicted a setosa
+[17] classifying a versicolour ->> Predicted a virginia
+[18] classifying a versicolour ->> Predicted a setosa
+[19] classifying a versicolour ->> Predicted a virginia
+[20] classifying a versicolour ->> Predicted a setosa
+[21] classifying a virginia ->> Predicted a virginia
+[22] classifying a virginia ->> Predicted a virginia
+[23] classifying a virginia ->> Predicted a virginia
+[24] classifying a virginia ->> Predicted a virginia
+[25] classifying a virginia ->> Predicted a virginia
+[26] classifying a virginia ->> Predicted a virginia
+[27] classifying a virginia ->> Predicted a virginia
+[28] classifying a virginia ->> Predicted a virginia
+[29] classifying a virginia ->> Predicted a virginia
+[30] classifying a virginia ->> Predicted a virginia
+
+Total classification error 10
+Explanation: each missed classification is 1 output value away (no observed instances of a garbage prediction).
+Therefore can just add up the number of missed classifications
+[Setosa] Precision: 0.625 Recall: 1
+[Versicolour] Precision: -nan(ind) Recall: 0
+[Virginia] Precision: 0.714286 Recall: 1
+
+ Number of iterations: 70
+The number of iterations was used as a terminating criteria.
+This value was chosen empirically as around the minimum number of iterations needed to converge on acceptable weight values.
+A higher number of iterations did not result in any more correct classifications.
